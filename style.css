@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    border: border-box;
+    font-family: arial;
+}
+
+.nav-bar{
+    height: 60px;
+    background-color: #0f1111;
+}
