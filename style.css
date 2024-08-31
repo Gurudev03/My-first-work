@@ -8,3 +8,14 @@
     height: 60px;
     background-color: #0f1111;
 }
+.amazon-logo{
+    height: 50px;
+    width: 100px;
+}
+
+.logo{
+    height: 50px;
+    width: 100%;
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+}
