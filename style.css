@@ -5,19 +5,3 @@
     color: white; 
 }
 
-.nav-bar{
-    height: 60px;
-    background-color: #0f1111;
-}
-.amazon-logo{
-    height: 50px;
-    width: 100px;
-}
-
-.logo{
-    background-image: url("amazon_logo.png");
-    background-size: cover;
-    height: 50px;
-    width: 100%;
-   
-}
